@@ -25,10 +25,10 @@ Atualmente sou estudante em Análise Desenvolvimento de Sistemas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WebertSz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Meus Repositórios
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=WebertSz&repo=projeto-hashtag-tocador-de-musica&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([(https://github.com/WebertSz/projeto-hashtag-tocador-de-musica)])
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=WebertSz&repo=projeto-hashtag-tocador-de-musica&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WebertSz/projeto-hashtag-tocador-de-musica)
 
 ## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=WebertSz&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)]([(https://github.com/WebertSz/dio-lab-open-source)])
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=WebertSz&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/WebertSz/dio-lab-open-source)
 
 
 
